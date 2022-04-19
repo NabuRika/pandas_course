@@ -1,0 +1,22 @@
+country_code,country_name,capital_city,population_size,independence_date
+CN,China,,10,na
+NZ,New Zealand,null,20,
+ZA,,,30,n/a
+GB,,null,missing,
+US,,,unknown,
+AR,Argentina,,none,
+AT,Austria,,,
+BD,Bangladesh,,,
+BR,Brazil,,,
+EG,Egypt,,,
+JP,Japan,,,
+MA,Morocco,,,
+CA,Canada,,,
+IN,India,,,
+MY,Malaysia,,,
+PK,Pakistan,,,
+TR,Turkey,,,
+FR,France [l],,,
+ID,Indonesia,,,
+NG,Nigeria,,,
+SG,Singapore,,,
