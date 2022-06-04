@@ -1,22 +1,6 @@
-country_code,country_name,capital_city,population_size,independence_date
-CN,China,,10,na
-NZ,New Zealand,null,20,
-ZA,,,30,n/a
-GB,,null,missing,
-US,,,unknown,
-AR,Argentina,,none,
-AT,Austria,,,
-BD,Bangladesh,,,
-BR,Brazil,,,
-EG,Egypt,,,
-JP,Japan,,,
-MA,Morocco,,,
-CA,Canada,,,
-IN,India,,,
-MY,Malaysia,,,
-PK,Pakistan,,,
-TR,Turkey,,,
-FR,France [l],,,
-ID,Indonesia,,,
-NG,Nigeria,,,
-SG,Singapore,,,
+country_code,country_name,capital_city,population_size,national_day
+CN,China,Beijing,1440297825,10/1/1949
+AR,Argentina,Buenos Aires,45267449,7/9/1816
+IN,India,New Delhi,1382345085,15/7/1947
+NG,Nigeria,Abuja,206984347,1/10/1960
+US,United States,Washington,331341050,4/7/1776
